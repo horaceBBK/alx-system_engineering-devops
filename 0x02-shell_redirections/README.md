@@ -1,0 +1,5 @@
+# My Project
+This is a description of my project.
+In this project, we will learn about Shell, 1/O Redirections.
+We will learn about whitespaces, expansions, single and double quotes, Escapes, Comment, Pipe and etc.
+Learn about this on https://mywiki.wooledge.org/BashGuide/SpecialCharacters
